@@ -5995,7 +5995,7 @@ body {
     width: 48%;
   }
   .images-right img {
-    float: right;
+    float: left;
   }
   .images-left {
     float: none;
